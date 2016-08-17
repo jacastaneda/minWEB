@@ -1,0 +1,32 @@
+/*@media only screen and (min-width: 991px) and (max-width: 1200px){
+	.mockup img {
+	    margin-top: -50px;
+	    margin-left: 61px;
+	}
+	.screen{
+	    height: 338px;
+	    overflow: hidden;
+	    margin-top: 7px;
+	    margin-left: 0px;
+	}
+	.screen i{
+		top: 140px;
+    	left: 14px;
+	}
+}*/
+
+@media only screen and (min-width: 0px) and (max-width: 991px){
+	.left-menu{
+		position: absolute;
+		z-index: 999;
+	}
+	.user-header img{
+		margin-top: 40px;
+	}
+	.left-menu {
+	    padding-top: 25px;
+	}
+	header{
+		min-height: 100px;
+	}
+}
