@@ -283,6 +283,32 @@
                 </div>
             </div>
         </section>
+       
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">                  
+                        <div class="about-me card wow slideInUp animated">
+                            <span>
+                                <i class="material-icons pull-right wow zoomIn animated" data-wow-delay="1s" data-wow-duration="1s" style="visibility: visible;">
+                                    thumb_up
+                                </i>
+                            </span>
+                            <h1 class="text text-info">
+                                Ellos ya confian en minerva
+                            </h1>      
+                            <img style="display: inline" src="images/LogoCA.png" width="250px" height="250px" class="wow slideInDown animated img img-responsive img-rounded"/>
+                            <img style="display: inline" src="images/logoPanchoLara.jpg" width="250px" height="250px" class="wow slideInDown animated  img img-responsive img-rounded"/>
+                        </div>
+                        <!--<div class="row">-->
+                            <!--<div class="col-md-3">-->
+                               
+                            <!--</div>-->
+                        <!--</div>-->                        
+                    </div>
+                </div>
+            </div>
+        </section>        
 
         <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button">
             <i class="material-icons">keyboard_arrow_up</i>
