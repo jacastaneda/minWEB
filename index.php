@@ -295,7 +295,7 @@
                                 </i>
                             </span>
                             <h1 class="text text-info">
-                                Ellos ya confian en minerva
+                                Ellos ya confian en Minerva
                             </h1>      
                             <img style="display: inline" src="images/LogoCA.png" width="250px" height="250px" class="wow slideInDown animated img img-responsive img-rounded"/>
                             <img style="display: inline" src="images/logoPanchoLara.jpg" width="250px" height="250px" class="wow slideInDown animated  img img-responsive img-rounded"/>
