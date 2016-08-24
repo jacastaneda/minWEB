@@ -66,7 +66,7 @@
                                 </i>
                             </span>
                             <h1>
-                                Qu&eacute; es el Proyecto Minerva?
+                                ¿Qu&eacute; es el Proyecto Minerva?
                             </h1>
                             <p>
 
@@ -90,7 +90,7 @@
                         <div class="row">
 
                             <div class="left-content-area">
-                                <div class="col-md-6">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="contact card wow slideInUp animated">
@@ -100,7 +100,7 @@
                                                     </i>
                                                 </span>
                                                 <h1>
-                                                    Cu&aacute;les son los objetivos?
+                                                    ¿Cu&aacute;les son los objetivos?
                                                 </h1>
                                                 <ul>
                                                     <li class="wow fadeInUp animated">
@@ -114,7 +114,7 @@
                                                         <p>
                                                             Mantener una mejor comunicaci&oacute;n con los padres de familia o tutores
                                                             de los alumnos para que se involucren m&aacute;s en la educaci&oacute;n de sus
-                                                            hijos o en las actiidades del centro educativo.
+                                                            hijos o en las actividades del centro educativo.
                                                         </p>
                                                     </li>
                                                     <li class="wow fadeInUp animated">
@@ -129,23 +129,31 @@
                                         </div>
 
                                         <div class="col-md-12">
-                                            <div class="skills card wow slideInUp animated">
+                                      <div class="contact card wow slideInUp animated">
                                                 <span>
                                                     <i class="material-icons pull-right wow zoomIn animated animated" data-wow-delay="1s" data-wow-duration="1s" style="visibility: visible;">
-                                                        cloud_done
+                                                        check_circle
                                                     </i>
                                                 </span>
                                                 <h1>
-                                                    Cu&aacute;les ser&aacute;n sus beneficios ?
+                                                    ¿C&oacute;mo unirse gratuitamente al proyecto?
                                                 </h1>
                                                 <ul>
-                                                    <li>
+                                                    <li class="wow fadeInUp animated">
+                                                        <i class="material-icons">screen_share</i>
                                                         <p>
-                                                            Si usted hace esta alianza estrat&eacute;gica con nosotros, se le otrogar&aacute; el derecho de usar el <b>Sistema Minerva</b> gratuitamente.
+                                                            Brindando informaci&oacute;n sobre la administraci&oacute;n de su centro educativo.
                                                         </p>
                                                     </li>
+                                                    <li class="wow fadeInUp animated">
+                                                        <i class="material-icons">done_all</i>
+                                                        <p>
+                                                            Dedicando una parte de su tiempo a colaborar con el equipo de desarrollo del Proyecto Minerva
+                                                            usted contribuye al desarrollo del pa&iacute;s y de su centro educativo.
+                                                        </p>
+                                                    </li>                                                    
                                                 </ul>
-                                            </div>
+                                            </div>                                            
                                         </div>
 
                                         <div class="col-md-12">
@@ -156,7 +164,7 @@
                                                     </i>
                                                 </span>
                                                 <h1>
-                                                    Est&aacute; interesado en unirse al proyecto ?
+                                                    ¿Est&aacute; interesado en unirse al proyecto ?
                                                 </h1>
                                                 <h4 class="wow fadeInUp animated text-info">Contactenos</h4>
                                                 <br>
@@ -189,7 +197,7 @@
                             </div>
 
                             <div class="right-content-area">
-                                <div class="col-md-6">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="contact card wow slideInUp animated">
@@ -199,7 +207,7 @@
                                                     </i>
                                                 </span>
                                                 <h1>
-                                                    Cu&aacute;les son sus caracter&iacute;sticas b&aacute;sicas?
+                                                    ¿Cu&aacute;les son sus caracter&iacute;sticas b&aacute;sicas?
                                                 </h1>
                                                 <ul>
                                                     <li class="wow fadeInUp animated">
@@ -246,31 +254,23 @@
                                         </div>
 
                                         <div class="col-md-12">
-                                            <div class="contact card wow slideInUp animated">
+                                         <div class="skills card wow slideInUp animated">
                                                 <span>
                                                     <i class="material-icons pull-right wow zoomIn animated animated" data-wow-delay="1s" data-wow-duration="1s" style="visibility: visible;">
-                                                        check_circle
+                                                        cloud_done
                                                     </i>
                                                 </span>
                                                 <h1>
-                                                    C&oacute;mo unirse gratuitamente al proyecto?
+                                                    ¿Cu&aacute;les ser&aacute;n sus beneficios ?
                                                 </h1>
                                                 <ul>
-                                                    <li class="wow fadeInUp animated">
-                                                        <i class="material-icons">screen_share</i>
+                                                    <li>
                                                         <p>
-                                                            Brindando informaci&oacute;n sobre la administraci&oacute;n de su centro educativo.
+                                                            Si usted hace esta alianza estrat&eacute;gica con nosotros, se le otrogar&aacute; el derecho de usar el <b>Sistema Minerva</b> gratuitamente.
                                                         </p>
                                                     </li>
-                                                    <li class="wow fadeInUp animated">
-                                                        <i class="material-icons">done_all</i>
-                                                        <p>
-                                                            Dedicando una parte de su tiempo a colaborar con el equipo de desarrollo del Proyecto Minerva
-                                                            usted contribuye al desarrollo del pa&iacute;s y de su centro educativo.
-                                                        </p>
-                                                    </li>                                                    
                                                 </ul>
-                                            </div>
+                                            </div>      
                                         </div>
 
 

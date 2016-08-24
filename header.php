@@ -59,7 +59,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <img src="images/logo.png" id="logoImg" alt="" class="img-responsive img-responsive wow zoomIn animated">
+                            <img src="images/logo.png" id="logoImg" alt="" class="img-responsive img-thumbnail wow zoomIn animated">
+                            <br/> <br/> <br/>
 <!--                            <h1 class="wow slideInUp animated">
                                 Proyecto Minerva
                             </h1>-->
